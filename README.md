@@ -59,7 +59,6 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Classification" />
 
 ## Classification
-- [2024] Feedback Band Group and Variation Low-Rank Sparse Model for Hyperspectral Image Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10430170)] 
 - [2024] GraphGST: Graph Generative Structure-Aware Transformer for Hyperspectral Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10379176)] [[Python](https://github.com/yuanchaosu/TGRS-graphGST)]
 - [2023] Universal Domain Adaptation for Remote Sensing Image Scene Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10043671)] [[Python](https://github.com/zhu-xlab/UniDA)]
 - [2023] UCSL: Toward Unsupervised Common Subspace Learning for Cross-Modal Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10144390)] [[Matlab](https://github.com/jingyao16/UCSL)]
@@ -149,6 +148,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Detection" />
 
 ## Detection
+- [2024] Feedback Band Group and Variation Low-Rank Sparse Model for Hyperspectral Image Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10430170)] 
 - [2024] Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection, arXiv [[Paper](https://arxiv.org/pdf/2402.15335v1.pdf)][[Python](https://sites.google.com/view/danfeng-hong)]
 - [2023] Anomaly Detection for Hyperspectral Imagery via Tensor Low-Rank Approximation With Multiple Subspace Learning, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10108976)]
 - [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[Paper](https://ieeexplore.ieee.org/abstract/document/9781337)] [[Matlab](https://openremotesensing.net/knowledgebase/learning-tensor-low-rank-representation-for-hyperspectral-anomaly-detection/)]
