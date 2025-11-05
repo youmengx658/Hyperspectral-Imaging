@@ -248,6 +248,8 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Unmixing" />
 
 ## Unmixing
+- [2025] A Joint Multiscale Graph Attention and Classify-Driven Autoencoder Framework for Hyperspectral Unmixing IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858757)]
+- [2025] Superpixel-Based Autoencoder-Like Nonnegative Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11137401)]
 - [2025] ACR-Net: Adaptive Correlation Refined Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11039799)]
 - [2025] DEAE: Diffusion-Enhanced Autoencoder Network for Unsupervised Nonlinear Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11154030)]
 - [2025] EMLM-Net: An Extended Multilinear Mixing Model-Inspired Dual-Stream Network for Unsupervised Nonlinear Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423877)]
