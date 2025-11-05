@@ -248,7 +248,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Unmixing" />
 
 ## Unmixing
-- [2024]
+- [2024] An Abundance-Guided Attention Network for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10409575)]
 - [2023] Unrolling Nonnegative Matrix Factorization With Group Sparsity for Blind Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10173648)]
 - [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
 - [2023] Adaptive Hypergraph Regularized Multilayer Sparse Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10032657)]
