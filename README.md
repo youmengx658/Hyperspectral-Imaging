@@ -148,6 +148,11 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Detection" />
 
 ## Detection
+- [2025] Hyperspectral Anomaly Detection Based on Tensor Approximation With Tensor Double Nuclear Norm, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10900564)]
+- [2025]  ProTD: Prompted Tensor Decomposition for Hyperspectral Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11177542)]
+- [2025] Continuous Tensor Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11098802)]
+- [2025] Self-Supervised Masked Graph Autoencoder for Hyperspectral Anomaly Detection, IEEE TIP [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11206010)]
+- [2025] Anomaly Detection in Hyperspectral Images Using Adaptive Graph Frequency Location, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10663316)]
 - [2024] Feedback Band Group and Variation Low-Rank Sparse Model for Hyperspectral Image Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10430170)] 
 - [2024] Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection, arXiv [[Paper](https://arxiv.org/pdf/2402.15335v1.pdf)][[Python](https://sites.google.com/view/danfeng-hong)]
 - [2023] Anomaly Detection for Hyperspectral Imagery via Tensor Low-Rank Approximation With Multiple Subspace Learning, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10108976)]
